@@ -53,3 +53,7 @@
 - [ ] Branch is complete and overall change functionally usable
 - [ ] Committer and author name and email are correct/appropriate, not git defaults
 - [ ] Code is reviewed for breaking changes, does it need a major version bump? (TODO link) Or did something break that you need to isolate? (TODO link)
+
+### PR Template Contributions
+
+Contribute via PR here: https://github.com/practiv/.github
