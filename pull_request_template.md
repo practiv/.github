@@ -10,7 +10,7 @@
 - [ ] Documentation (README files, pom descriptions, etc)
 - [ ] Style (formatting, whitespace, indentation, etc)
 - [ ] Refactor (exclusively no functional change)
-- [ ] Performance (exclusively, no functional chnge)
+- [ ] Performance (exclusively, no functional change)
 - [ ] Tests (No change to working codebase, only testing around it)
 
 ## Related issues/PRs and references
