@@ -52,6 +52,8 @@
 - [ ] Branch is complete and overall change functionally usable
 - [ ] Committer and author name and email are correct/appropriate, not git defaults
 - [ ] Branch contains no breaking changes or major version is bumped. (TODO link) Or did something break that you need to isolate? (TODO link)
+- [ ] This change cannot be accomplished by overriding an existing client-side configuration variable
+- [ ] This change is not client-specific and benefits Practiv long term
 
 ## I promise not to...
 
