@@ -16,7 +16,7 @@
 
 ### Development
 
-- build passes locally
+- Build passes locally
 - Major version bumped if breaking change
 - Lint rules pass locally
 - Application changes have been tested thoroughly
@@ -24,8 +24,8 @@
 
 ### Security
 
-- [ ] Security impact of change has been considered
-- [ ] Code follows company security practices and guidelines
+- Security impact of change has been considered
+- Code follows company security practices and guidelines
 
 ### Standards
 - Commit comments are appropriate?
